@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+
+nav {
+  display: flex;
+  background-color: blue;
+  border: 10 px solid blue;
+  justify-content: space-around;
+}
+
+button {
+  background-color: lightblue;
+  color: blue;
+  height: 30px;
+  border-radius: 8px;
+}
+
+li {
+  list-style-type: none;
+}
+body {
+  background-color: paleturquoise;
+}
+
+.imgDog {
+  width: 200px;
+}
